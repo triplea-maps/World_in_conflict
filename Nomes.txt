@@ -1,0 +1,498 @@
+Iceland
+EIRE
+United Kingdom
+Norway
+Sweden
+Finland
+Ceylon
+Leningrad
+Moscow
+Stalingrad
+Caucasus
+Rostov
+Kursk
+Smolensk
+Novgorod
+Turkey
+Greece
+Italy
+Spain
+Portugal
+Vichy France
+France
+Belgium
+Netherlands
+Denmark
+Eastern Germany
+Western Germany
+Switzerland
+Gibraltar
+Malta
+Sicily
+Sardinia
+Corsica
+Albania
+Yugoslavia
+Greater Hungary
+Western Poland
+Eastern Poland
+Karelia S.S.R.
+Ukraine S.S.R.
+Austria
+Murmansk
+Archangelsk
+Syria
+Cyprus
+Crete
+Lebanon
+Palestine
+Trans-Jordan
+Iraq
+Kuwait
+Iran
+Saudi Arabia
+Aden
+Yemen
+Qatar
+Oman
+Trucial Oman
+Egypt
+Tunisia
+Spanish Morocco
+Morocco
+Algeria
+Tripolitania
+Cyrenaica
+Romania
+Bulgaria
+Czechoslovakia
+Madeira Archipelago
+Azores Archipelago
+Canary Islands
+Cape Verde Archipelago
+Faroe Islands
+Shetland Islands
+Greenland
+Bermuda
+St. Pierre et Miquelon
+Newfoundland
+Spanish Sahara
+Mauritania
+Senegal
+Portuguese Guinea
+Gabon
+Middle Congo
+Oubangui-Chari
+Chad
+Madagascar
+French Sudan
+Niger
+Côte d'Ivoire
+Dahomey
+Cameroun
+Gold Coast
+Liberia
+Sierra Leone
+Nigeria
+São Tomé and Príncipe
+Fernando de Noronha Islands
+Tristan da Cunha Islands
+Ascension Island
+Saint Helena Island
+Angola
+Mozambique
+Namibia
+South Africa
+Anglo-Egyptian Sudan
+Belgian Congo
+Kenya
+Uganda
+Tanganyika
+Nyasaland
+Bechuanaland
+Northern Rhodesia
+Southern Rhodesia
+Ethiopia
+British Somaliland
+French Somaliland
+Italian Somaliland
+Eritrea
+Crimea
+Spanish Guinea
+Shanghai
+Hong-Kong
+French Indochina
+Mexico
+Baffin Island
+Ontario
+Quebec
+Nova Scotia
+Manitoba
+Saskatchewan
+Nunavut
+Alberta
+British Columbia
+Northwest Territories
+Alaska
+Central Aleutian Islands
+Western Aleutian Islands
+Eastern Aleutian Islands
+Northwestern U.S.
+Pacific U.S.
+Northeastern U.S.
+Southeastern U.S.
+South U.S.
+Upper Midwest
+Lower Midwest
+Northern Brazil
+Southern Brazil
+Puerto Rico
+Jamaica
+Cuba
+Galápagos Islands
+Belarus S.S.R.
+Lithuania
+Estonia
+Latvia
+East Prussia
+Western Kazakhstan S.S.R.
+Eastern Kazakhstan S.S.R.
+Bahamas Archipelago
+Trinidad and Tobago
+Dutch Antilles
+French West Indies
+Haiti
+Dominican Republic
+Venezuela
+Colombia
+Ecuador
+Peru
+Uruguay
+Argentina
+Chile
+Paraguay
+Bolivia
+Falkland Islands
+Honduras
+El Salvador
+Guatemala
+British Honduras
+Panama
+Costa Rica
+Nicaragua
+British West Indies
+British Guiana
+Dutch Guiana
+French Guiana
+South Georgia and South Sandwich Islands
+Comoros Islands
+Seychelles Archipelago
+Réunion Island
+Mauritius Islands
+Chagos Archipelago
+Lakshadweep Islands
+Maldives Islands
+Andaman Islands
+Nicobar Islands
+Cocos Islands
+Burma
+British Malaya
+Thailand
+Bengal
+Bhutan
+Baluchistan
+Nepal
+Tibet
+Afghanistan
+Japan
+Tasmania
+Victoria
+New South Wales
+Western Australia
+Northern Territory
+South Australia
+Philippines
+Queensland
+Leeward Islands
+Hawaiian Islands
+Sumatra
+Java
+Lesser Sunda Islands
+Timor
+Maluku Islands
+Celebes Islands
+Sarawak
+North Borneo
+Dutch Borneo
+Bismarck Archipelago
+Solomon Islands
+Papua
+German New Guinea
+New Guinea
+Santa Cruz Islands
+New Caledonia
+New Hebrides
+Fiji Islands
+Mariana Islands
+Guam Island
+Iwo Jima
+Northern Sakhalin
+Southern Sakhalin
+Ryukyu Islands
+Kuril Islands
+Taiwan
+Hainan
+Pitcairn Islands
+Chatham Islands
+Tajikistan S.S.R.
+Turkmenistan S.S.R.
+Uzbekistan S.S.R.
+Kyrgyzstan S.S.R.
+Chukotka
+Kamchatka
+Magadan
+Amur
+Yakutia
+Nenetsia
+Mongolia
+Komi
+Yamalia
+Taymyria
+Evenkia
+Buryatia
+Irkutsk
+Krasnoyarsk
+Volga
+Novosibirsk
+Yugra
+Sverdlovsk
+Khabarovsk
+Deccan
+Sinkiang
+Manchukuo
+Korea
+Mengjiang
+Fukien
+Kwangtung
+Chekiang
+Yunnan
+Kwangsi
+Kweichow
+Szechwan
+Hunan
+Kiangsi
+Inner Mongolia
+Qinghai
+Kansu
+Hupei
+Honan
+Anhwei
+Shantung
+Palau
+Marshall Islands
+Tonga
+Wallis et Futuna
+Samoa
+American Samoa
+Johnston Atoll
+Palmyra Atoll
+Nauru
+Gilbert Islands
+Phoenix Islands
+Baker and Howland Islands
+Ellice Islands
+Wake Island
+Cook Islands
+Niue
+Austral Islands
+Society Islands
+Tuamotu Archipelago
+Marquesas Islands
+Southern Line Islands
+Northern Line Islands
+India
+Central Caroline Islands
+Eastern Caroline Islands
+Western Caroline Islands
+Tokelau
+
+SZ 1
+SZ 2
+SZ 3
+SZ 4
+SZ 5
+SZ 6
+SZ 7
+SZ 8
+SZ 9
+SZ 10
+SZ 11
+SZ 12
+SZ 13
+SZ 14
+SZ 15
+SZ 16
+SZ 17
+SZ 18
+SZ 19
+SZ 20
+SZ 21
+SZ 22
+SZ 23
+SZ 24
+SZ 25
+SZ 26
+SZ 27
+SZ 28
+SZ 29
+SZ 30
+SZ 31
+SZ 32
+SZ 33
+SZ 34
+SZ 35
+SZ 36
+SZ 37
+SZ 38
+SZ 39
+SZ 40
+SZ 41
+SZ 42
+SZ 43
+SZ 44
+SZ 45
+SZ 46
+SZ 47
+SZ 48
+SZ 49
+SZ 50
+SZ 51
+SZ 52
+SZ 53
+SZ 54
+SZ 55
+SZ 56
+SZ 57
+SZ 58
+SZ 59
+SZ 60
+SZ 61
+SZ 62
+SZ 63
+SZ 64
+SZ 65
+SZ 66
+SZ 67
+SZ 68
+SZ 69
+SZ 70
+SZ 71
+SZ 72
+SZ 73
+SZ 74
+SZ 75
+SZ 76
+SZ 77
+SZ 78
+SZ 79
+SZ 80
+SZ 81
+SZ 82
+SZ 83
+SZ 84
+SZ 85
+SZ 86
+SZ 87
+SZ 88
+SZ 89
+SZ 90
+SZ 91
+SZ 92
+SZ 93
+SZ 94
+SZ 95
+SZ 96
+SZ 97
+SZ 98
+SZ 99
+SZ 100
+SZ 101
+SZ 102
+SZ 103
+SZ 104
+SZ 105
+SZ 106
+SZ 107
+SZ 108
+SZ 109
+SZ 110
+SZ 111
+SZ 112
+SZ 113
+SZ 114
+SZ 115
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ
+SZ

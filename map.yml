@@ -1,0 +1,4 @@
+map_name: World_in_conflict
+games:
+- {game_name: World in conflict-1941, file_name: World_in_conflict.xml}
+version: 0
